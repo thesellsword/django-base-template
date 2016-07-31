@@ -1,6 +1,7 @@
 # Install everything that needs to be compiled
 -r compiled.txt
-
+# For now install config needed for developer as well
+-r local.txt
 # Django stuff
 Django>=1.8
 
